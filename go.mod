@@ -1,6 +1,7 @@
-module nats_cm
+module  github.com/CarlosMore29/nats_cm
 
 go 1.19
+
 
 require (
 	github.com/joho/godotenv v1.4.0
