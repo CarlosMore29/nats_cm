@@ -3,7 +3,7 @@ package nats_cm
 import (
 	"os"
 
-	"nats_cm/config/env"
+	"github.com/CarlosMore29/nats_cm/config/env"
 
 	"github.com/nats-io/nats.go"
 )
